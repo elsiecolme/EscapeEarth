@@ -12,9 +12,7 @@
 
 ## November 19th
 #### Vocab of the week in your own words
-#### Activity-3 presentations
-#### Combine Cleaning Methods into a .py file with Atom 
-#### Review Classes
-#### Plan Analysis Tools Library 
+#### Finish Activity-3 
+#### Teams present their Tutorials 
 #### Reminder: C&C Rep. is Elise
 #### [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfhexyVY226Fo7eyEtHve_MwAFkbjSh_eVrbftjhPyLBquDqQ/viewform?usp=sf_link)
